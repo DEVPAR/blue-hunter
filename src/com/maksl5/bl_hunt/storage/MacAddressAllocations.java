@@ -313,10 +313,10 @@ public class MacAddressAllocations {
 	static final String[] LG = { "00:1C:62", "00:1E:75", "00:1F:6B",
 			"00:1F:E3", "00:21:FB", "00:22:A9", "00:24:83", "00:25:E5",
 			"00:26:E2", "00:AA:70", "00:E0:91", "10:F9:6F", "20:21:A5",
-			"3C:BD:D8", "6C:D6:8A", "70:05:14", "74:A7:22", "A8:16:B2",
-			"A8:92:2C", "C0:41:F6", "E8:5B:5B", "E8:92:A4", "F0:1C:13",
-			"F8:0C:F3", "5C:17:D3", "64:99:5D", "8C:54:1D", "B0:89:91",
-			"00:05:C9", "00:1E:B2", "1C:08:C1", "94:44:44" };
+			"2C:54:CF", "3C:BD:D8", "6C:D6:8A", "70:05:14", "74:A7:22", 
+			"A8:16:B2", "A8:92:2C", "C0:41:F6", "E8:5B:5B", "E8:92:A4",
+			"F0:1C:13", "F8:0C:F3", "5C:17:D3", "64:99:5D", "8C:54:1D",
+			"B0:89:91", "00:05:C9", "00:1E:B2", "1C:08:C1", "94:44:44" };
 
 	static final String[] HTC = { "00:09:2D", "00:23:76", "18:87:96",
 			"1C:B0:94", "38:E7:D8", "64:A7:69", "7C:61:93", "90:21:55",
@@ -352,7 +352,8 @@ public class MacAddressAllocations {
 			"E4:64:49", "E4:83:99", "E8:6D:52", "F8:0B:BE", "F8:7B:7A",
 			"FC:0A:81" };
 
-	static final String[] Sony_Mobile_Device = { "20:54:76", "D0:51:62" };
+	static final String[] Sony_Mobile_Device = { "20:54:76", "44:D4:E0",
+			"D0:51:62" };
 
 	static final String[] Sony_Computer = { "00:01:4A", "00:04:1F", "00:13:15",
 			"00:13:A9", "00:15:C1", "00:19:C5", "00:1A:80", "00:1D:0D",
@@ -601,7 +602,7 @@ public class MacAddressAllocations {
 			"00:07:04", "00:16:FE", "00:19:C1", "00:1B:FB", "00:1E:3D",
 			"00:21:4F", "00:23:06", "00:24:33", "00:26:43", "00:A0:79",
 			"04:76:6E", "04:98:F3", "34:C7:31", "38:C0:96", "60:38:0E",
-			"E0:AE:5E", "64:D4:BD" };
+			"64:D4:BD", "E0:AE:5E", "FC:62:B9" };
 
 	static final String[] nFore = { "00:17:53" };
 
@@ -629,7 +630,7 @@ public class MacAddressAllocations {
 
 	static final String[] Baron = { "C8:29:2A" };
 
-	static final String[] Sunitec = { "00:1D:DF" };
+	static final String[] Sunitec = { "00:1D:DF", "0C:A6:94" };
 
 	static final String[] Murata = { "00:0E:6D", "00:13:E0", "00:21:E8",
 			"00:26:E8", "00:37:6D", "00:50:81", "00:60:57", "04:46:65",
